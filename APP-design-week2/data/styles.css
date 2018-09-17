@@ -9,8 +9,6 @@
 }
 .box_1 {
 }
-.button {
-}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -54,4 +52,20 @@
 }
 ._文本段落 {
   text-align:left;
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.icon {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.box_3 {
+}
+._图片_ {
 }
